@@ -1,0 +1,40 @@
+h1 {
+  font-size: 38px;
+  line-height: 45px;
+}
+
+.pic1 {
+  width: 10%;
+  margin: 2%;
+  border-radius: 3px;
+}
+
+article {
+  width: 500px;
+  margin: 100px auto;
+}
+
+h1 + hr + p + p {
+  font-size: 22px;
+  line-height: 32px;
+  margin-top: 8px;
+  color: rgb(0, 0, 0, 0.4);
+}
+
+h2 {
+  margin-top: 50px;
+  font-size: 32px;
+  line-height: 36px;
+  color: rgb(0, 0, 0, 0.8);
+}
+
+h2 + blockquote,
+h2 + p {
+  margin-top: 8px;
+}
+
+blockquote {
+  margin-left: 50px;
+  margin-top: 20px;
+  font-style: italic;
+}

@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Jost", sans-serif;
+  src: url(../font/Jost-VariableFont_wght.ttf);
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "NWT Bodoni";
+  src: url("../bodoni/NWTBodoni-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "NWT Bodoni-bold";
+  src: url("../bodoni/NWTBodoni-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "NWT Bodoni-italic";
+  src: url("../bodoni/NWTBodoni-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
